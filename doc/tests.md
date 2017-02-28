@@ -87,7 +87,7 @@ You can run the `dupe` test locally with:
 cd cf-abacus
 
 npm start
-npm run smoke
+npm run dupe
 npm stop
 ```
 
